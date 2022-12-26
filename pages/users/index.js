@@ -1,6 +1,6 @@
 const Users = ({ posts }) => {
   console.log(posts);
-  return <div>We have {posts.length} Users</div>;
+  return <div>We have {posts.length} Users.</div>;
 };
 
 export default Users;
